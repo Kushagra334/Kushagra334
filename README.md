@@ -25,10 +25,24 @@ var person = {
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+# 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra334&theme=radical)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushagra334&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushagra334&theme=moonlight)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kushagra334&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 💡 Leetcode Statistics
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=KushagraT3&theme=dark)
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=Kushagra334&color=red)
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
