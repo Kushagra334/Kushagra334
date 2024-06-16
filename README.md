@@ -1,14 +1,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me:
 
-```dart
-var person = {
-  name: "Kushagra",
-  bio: "final year IT student with a passion for app development, 
-        I am particularly interested in using AI integration to App Development 
-        to solve real-world problems and stay up-to-date 
-        with emerging technologies.",
-}
-```
+        👨‍💻 Hi there! I'm a native Android developer currently in my prefinal year
+        at the International Institute of Professional Studies, DAVV. Passionate
+        about crafting seamless and intuitive mobile applications, I'm also fascinated
+        by the potential of integrating AI into apps to create smarter and more responsive
+        user experiences. Let's innovate and code the future together!",
+
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]() <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-tiwari-9706262ba/) 
